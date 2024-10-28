@@ -1,1 +1,3 @@
-# RaulRiCi-Sistemas_UnixLinux_phpMyAdmin
+# Laboratorio
+
+## Cómo instalar phpMyAdmin desde el código fuente
